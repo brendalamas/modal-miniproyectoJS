@@ -12,7 +12,7 @@ Sexto mini proyecto utilizando JS
 >  <img style="width:10%" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
 <br/>
   
-### 🔗 ¡Podes ingresar al proyecto desde <a href="https://brendalamas.github.io/sideBar-miniproyectoJS/">aca</a>!
+### 🔗 ¡Podes ingresar al proyecto desde <a href="https://brendalamas.github.io/modal-miniproyectoJS-/">aca</a>!
 <br/>
 
 ### 📸 Alungas imagenes del proyecto!
