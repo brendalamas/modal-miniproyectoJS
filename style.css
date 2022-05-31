@@ -1,0 +1,66 @@
+body{
+    background-color: #E9E3E3;
+    font-family: 'Acme', sans-serif;
+}
+.banner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.banner h1{
+    font-size: 3rem;
+    color: #A8A3F2;
+}
+.banner img {
+    width: 40%;
+}
+.banner .btn{
+    margin-top: 2rem;
+    padding: .5rem 1rem;
+    font-size: 1.5rem;
+    border-radius: 15px;
+    border: 2px solid #A6A1F1;
+    font-family: 'Acme', sans-serif;
+    color: #A6A1F1;
+    background-color: transparent;
+    cursor: pointer;
+}
+.modal-overlay{
+    border-radius: 15px;
+    color: #A8A3F2;
+    background-color: #FAFAFA;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 150px;
+    right: 500px;
+    padding: 1rem;
+    display: none;
+}
+h3{
+    text-align: center;
+    font-size: 1.7rem;
+}
+ul li{
+    font-size: 1.2rem;
+    list-style: none;
+}
+.modal-container {
+    padding-top: 30px;
+}
+.close-btn {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    font-size: 2rem;
+    background: transparent;
+    border-color: transparent;
+    color: #A8A3F2;
+    cursor: pointer;
+    transition: all 0.3s linear;
+}
+.close-btn:hover {
+    transform: scale(1.1);
+}
